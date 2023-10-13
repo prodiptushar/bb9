@@ -9,18 +9,14 @@
       "url": "/about"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Notice Board",
+      "url": "/notice"
     },
     {
       "name": "Pages",
       "url": "",
       "hasChildren": true,
       "children": [
-        {
-          "name": "Contact",
-          "url": "/contact"
-        },
         {
           "name": "Posts",
           "url": "/blog"
@@ -30,28 +26,24 @@
           "url": "/authors"
         },
         {
+          "name": "Rutine",
+          "url": "/rutine"
+        },
+        {
           "name": "Categories",
           "url": "/categories"
-        },
-        {
-          "name": "Search",
-          "url": "/search"
-        },
-        {
-          "name": "404 Page",
-          "url": "/404"
         }
       ]
     }
   ],
   "footer": [
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Resources",
+      "url": "/exams"
     },
     {
-      "name": "Privacy Policy",
-      "url": "/privacy-policy"
+      "name":"Contributors",
+      "url": "/authors"
     }
   ]
 }
