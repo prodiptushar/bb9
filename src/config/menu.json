@@ -9,6 +9,10 @@
       "url": "/about"
     },
     {
+      "name": "Resources",
+      "url": "/resources"
+    },
+    {
       "name": "Notice Board",
       "url": "/notice"
     },
@@ -39,7 +43,7 @@
   "footer": [
     {
       "name": "Resources",
-      "url": "/exams"
+      "url": "/resources"
     },
     {
       "name":"Contributors",
